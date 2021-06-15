@@ -1,0 +1,2 @@
+# SimplyPurple
+A Static Website
